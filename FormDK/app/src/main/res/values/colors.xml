@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_bg">#181A20</color>
+    <color name="dark_card">#222630</color>
+    <color name="input_border">#353B4B</color>
+    <color name="input_text">#FFFFFF</color>
+    <color name="input_hint">#8E94A4</color>
+    <color name="btn_green_start">#10B981</color>
+    <color name="btn_green_end">#059669</color>
+    <color name="error_red">#EF4444</color>
+</resources>
